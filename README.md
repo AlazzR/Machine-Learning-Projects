@@ -2,6 +2,14 @@
 
 Disclaimer: 
 
+**Packages used for this Repository**
+  * ***Python***:
+    * scikit-learn==0.22.2.post1
+    * scipy==1.4.1
+    * pandas==1.0.1
+    * numpy==1.18.1
+    * jupyter==1.0.0
+    * opencv-python==4.8.29
 --------------------------------------------------------------------------------------------------------
 ## Pattern Recognition and Machine Learning by Christopher Bishop
 
