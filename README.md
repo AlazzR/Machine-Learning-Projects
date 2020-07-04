@@ -3,7 +3,7 @@
 Disclaimer: 
 
 --------------------------------------------------------------------------------------------------------
-## Pattern Recognition and Machine Learning Christopher Bishop
+## Pattern Recognition and Machine Learning by Christopher Bishop
 
    * **Chapter 4: Linear Models for Classification**
        * (***proj_1***)Fisher's Linear Discriminant for Two Classes
