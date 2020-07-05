@@ -22,14 +22,13 @@ Disclaimer:
    * **Chapter 9: Mixture Models and EM**
       * (***proj9***)K means Algorithm using Euclidean Dissimilarity measure
       * (***proj10***)Mixtures of Gaussian usingEM can be initialized by kmeans or randomly
-      * (***proj13***)Image Segmentation and Compression using K-means
-      * (***proj15***)Mixtures of Multivariate Student-t Distribution using EM can be initialized by K-means
-      * (***proj16***)Mixtures of Factor Analysis Models recommended to be initialized by K-means
+      * (***proj14***)Mixtures of Multivariate Student-t Distribution using EM can be initialized by K-means
+      * (***proj15***)Mixtures of Factor Analysis Models recommended to be initialized by K-means
       
    * **Chapter 12: Continuous Latent Variables**
       * (***proj11***)Applying Non-Probabilistic PCA on Image of Number 3 using opencv for creating the artificial dataset
       * (***proj12***)Factor Analysis Model for Dimensionality Reduction
-      * (***proj14***)EM for estimating the parameters of a Multivariate Student-t Distribution
+      * (***proj13***)EM for estimating the parameters of a Multivariate Student-t Distribution
     
 --------------------------------------------------------------------------------------------------------
 **Packages used for this Repository**
