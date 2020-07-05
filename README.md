@@ -12,7 +12,7 @@ In the following, you can see a list of projects with their names starting with 
 ## Pattern Recognition and Machine Learning by Christopher Bishop
 
    * **Chapter 4: Linear Models for Classification**
-       * (***proj_1***)Fisher's Linear Discriminant for Two Classes
+       * (***proj1***)Fisher's Linear Discriminant for Two Classes
        * (***proj2***)Linear Discriminant Analysis k-CLasses
        * (***proj3***)Quadratic Discriminant Analysis k-Classes
        * (***proj4***)Logistic Regression Discriminative Model
